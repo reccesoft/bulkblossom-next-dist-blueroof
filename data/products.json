@@ -1,0 +1,135 @@
+[
+  {
+    "id": "1",
+    "name": "Gloria Munchies",
+    "shortDescription": "Yummy and crunchy biscuits",
+    "brand": "Gloria",
+    "type": "Snacks",
+    "images": [
+      "https://nationalfoods.co.zw/wp-content/uploads/2025/10/Packshots-11-1024x1024.png"
+    ],
+    "priceTiers": [
+      {
+        "quantity": "150g × 20",
+        "price": 6.1,
+        "image": ""
+      },
+      {
+        "quantity": "1kg × 20",
+        "price": 11.1,
+        "image": ""
+      }
+    ],
+    "onPromotion": true,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "D’lite Cooking Oil",
+    "shortDescription": "Cooking oil for the whole family",
+    "brand": "D'lite",
+    "type": "Cooking",
+    "images": ["https://tisquip.github.io/content/delight2.png"],
+    "priceTiers": [
+      {
+        "quantity": "375ml × 12",
+        "price": 7.3,
+        "image": ""
+      },
+      {
+        "quantity": "750ml × 12",
+        "price": 14.6,
+        "image": ""
+      },
+      {
+        "quantity": "2l × 12",
+        "price": 35.2,
+        "image": ""
+      }
+    ],
+    "onPromotion": true,
+    "featured": false
+  },
+  {
+    "id": "3",
+    "name": "Red Seal Salt",
+    "shortDescription": "For more than a century, Red Seal has been an integral part of every meal.",
+    "brand": "Red Seal",
+    "type": "Cooking",
+    "images": [
+      "https://nationalfoods.co.zw/wp-content/uploads/2019/05/Red-Seal-Table-Salt.jpg"
+    ],
+    "priceTiers": [
+      {
+        "quantity": "500g × 10",
+        "price": 2.0,
+        "image": ""
+      },
+      {
+        "quantity": "1kg × 10",
+        "price": 3.8,
+        "image": ""
+      },
+      {
+        "quantity": "2kg × 10",
+        "price": 7.4,
+        "image": ""
+      }
+    ],
+    "onPromotion": false,
+    "featured": true
+  },
+  {
+    "id": "4",
+    "name": "EveryDay Powdered Milk",
+    "shortDescription": "Nutritious milk for all",
+    "brand": "EveryDay",
+    "type": "Cooking",
+    "images": ["https://tisquip.github.io/content/everyday.jpg"],
+    "priceTiers": [
+      {
+        "quantity": "440g × 24",
+        "price": 62.7,
+        "image": ""
+      }
+    ],
+    "onPromotion": true,
+    "featured": false
+  },
+  {
+    "id": "5",
+    "name": "Blue Band Margarine",
+    "shortDescription": "Spread the love with Blueband",
+    "brand": "Blue Band",
+    "type": "Cooking",
+    "images": ["https://tisquip.github.io/content/blueband.png"],
+    "priceTiers": [
+      {
+        "quantity": "250g × 48",
+        "price": 40.2,
+        "image": ""
+      }
+    ],
+    "onPromotion": false,
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "Royco",
+    "shortDescription": "Instant soup packed with flavour.",
+    "brand": "Royco",
+    "type": "Cooking",
+    "images": [
+      "https://www.royco.co.za/cdn-cgi/image/width=293,height=293,fit=cover,g=auto,f=auto,quality=90/sites/g/files/fnmzdf1866/files/2024-10/Rich%20oxtail%20soup.png"
+    ],
+    "priceTiers": [
+      {
+        "quantity": "6 x 10 x 50g",
+        "price": 19.5,
+        "image": ""
+      }
+    ],
+    "onPromotion": false,
+    "featured": true
+  }
+]
